@@ -14,11 +14,21 @@ let package = Package(
         .library(
             name: "GoogleMaps",
             targets: [
-                "GoogleMaps",
-                "GoogleMapsBase",
+                "GoogleMaps"
+            ]
+        ),
+        .library(
+            name: "GoogleMapsBase",
+            targets: [
+                "GoogleMapsBase"
+            ]
+        ),
+        .library(
+            name: "GoogleMapsCore",
+            targets: [
                 "GoogleMapsCore"
             ]
-        )
+        ),
     ],
     targets: [
         .binaryTarget(
