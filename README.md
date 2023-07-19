@@ -1,6 +1,6 @@
 # googlemaps-ios
 
-This is a swift package that exposes GoogleMaps.xcframework, GoogleMapsBase.xcframework and GoogleMapsCore.xcframeworkbuilt downloaded from the official ![Google Maps]([https://github.com/opencv/opencv](https://developers.google.com/maps/documentation/ios-sdk)) ios sdk documentation. This eliminates the need to store them in your repository.
+This is a swift package that exposes GoogleMaps.xcframework, GoogleMapsBase.xcframework and GoogleMapsCore.xcframeworkbuilt downloaded from the official ![Google Maps](https://developers.google.com/maps/documentation/ios-sdk) ios sdk documentation. This eliminates the need to store them in your repository.
 # Table of Contents
 - [Installation](#installation)
   - [Swift Package Manager](#swift-package-manager)
