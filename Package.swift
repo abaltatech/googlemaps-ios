@@ -24,17 +24,17 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/abaltatech/googlemaps-ios/releases/download/\(version)/GoogleMaps.xcframework.zip",
-            checksum: "be5ca24fc50143c6294dc0f89a9641c4d331569a1c4c18e57765fe83039bebb1"
+            checksum: "ebab88865ad485ffca25a543574bed7fae7f43e517d3bf974f960ff5d4f7a28f"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/abaltatech/googlemaps-ios/releases/download/\(version)/GoogleMapsBase.xcframework.zip",
-            checksum: "bab5d88a02bb5721e9dec2e34e07319c3c4de3372531818a7e0d395941f800e7"
+            checksum: "bbd371464be7638329921fc6681cfc9132c75f9214511d6f8052b4754d84c6ab"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
             url: "https://github.com/abaltatech/googlemaps-ios/releases/download/\(version)/GoogleMapsCore.xcframework.zip",
-            checksum: "53cabcfaff934ebb9c990807baa3831d71946e87dae379a1e9f1773836b0ca80"
+            checksum: "1dff65d10fad115cf5340c8fb1aad7b046f8b93656a9124cb1ef8fc686a68305"
         )
     ]
 )
