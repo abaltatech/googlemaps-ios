@@ -6,6 +6,7 @@ This is a swift package that exposes GoogleMaps.xcframework, GoogleMapsBase.xcfr
   - [Swift Package Manager](#swift-package-manager)
   - [Xcode](#xcode)
 - [Documentation](#documentation)
+- [License](#license)
 - [Usage](#usage)
 ## Installation
 
@@ -42,6 +43,11 @@ Add https://github.com/abaltatech/googlemaps-ios.git to your package dependencie
 ## Documentation
 You can view the api reference docs at https://developers.google.com/maps/documentation/ios-sdk/reference
 For more information you can visit the official [Maps SDK for iOS](https://developers.google.com/maps/documentation/ios-sdk) site.
+
+## License
+
+This package mirrors the license of the official [Google Maps SDK for iOS](https://developers.google.com/maps/documentation/ios-sdk). See [`LICENSE.md`](LICENSE.md) for details.
+
 ## Usage
 Include the headers and follow the reference docs
 ```objective-c
