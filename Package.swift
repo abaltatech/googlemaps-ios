@@ -8,7 +8,7 @@ let version = "7.3.0"
 let package = Package(
     name: "GoogleMaps",
     platforms: [
-        .macOS(.v10_13), .iOS(.v11), .macCatalyst(.v13)
+        .macOS(.v10_13), .iOS(.v16), .macCatalyst(.v13)
     ],
     products: [
         .library(
